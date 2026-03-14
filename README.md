@@ -1,11 +1,7 @@
-# Hello, I'm kyoung-mo 👋
+# Hello, I'm 구영모 👋
 
 **임베디드 SW 개발자를 목표로 공부하고 있습니다.**  
 CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
-
----
-
-📬 **MyBlog** 
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mommers/posts)
 
@@ -15,7 +11,7 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 | 기간 | 활동 / 경력 | 주요 내용 |
 |---|---|---|
-| 2025.12 ~ 2026.07 | Intel Edge AI SW 아카데미 9기 | 임베디드 시스템 / Edge AIoT 교육 |
+| 2024.07 ~ 2025.02 | Intel Edge AI SW 아카데미 9기 | 임베디드 시스템 / Edge AIoT 교육 |
 | 2024 ~ | 개인 프로젝트 | STM32, Raspberry Pi, CAN 통신 기반 시스템 개발 |
 
 ---
@@ -24,7 +20,14 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 **Firmware / Embedded**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,arduino,git)](https://skillicons.dev)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 | 분야 | 기술 |
 |---|---|
@@ -38,7 +41,7 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 ## 📁 주요 프로젝트
 
-### 1. [CATNIP — CAN 기반 분산 ECU 무인 배달 차량](https://github.com/kyoung-mo/can-based-autonomous-delivery-car)
+### 1. [CATNIP — CAN 기반 분산 ECU 무인 배달 차량](https://github.com/kyoung-mo/can-based-autonomous-delivery)
 > STM32 × 2 + Raspberry Pi × 3 분산 ECU 아키텍처 기반 무인 배달 RC카
 
 - CAN 250kbps 온보드 통신 (주행 / 미션 / 화물함 ECU 분리)
