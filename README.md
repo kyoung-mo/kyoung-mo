@@ -1,4 +1,4 @@
-# Hello, I'm 구영모 👋
+# Hello, I'm kyoung-mo 👋
 
 **임베디드 SW 개발자를 목표로 공부하고 있습니다.**  
 CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
