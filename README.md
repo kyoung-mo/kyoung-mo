@@ -38,7 +38,7 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 ## 📁 주요 프로젝트
 
-### 1. [CATNIP — CAN 기반 분산 ECU 무인 배달 차량](https://github.com/kyoung-mo/can-based-autonomous-delivery)
+### 1. [CATNIP — CAN 기반 분산 ECU 무인 배달 차량](https://github.com/kyoung-mo/can-based-autonomous-delivery-car)
 > STM32 × 2 + Raspberry Pi × 3 분산 ECU 아키텍처 기반 무인 배달 RC카
 
 - CAN 250kbps 온보드 통신 (주행 / 미션 / 화물함 ECU 분리)
