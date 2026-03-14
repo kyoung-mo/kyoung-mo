@@ -11,7 +11,7 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 | 기간 | 활동 / 경력 | 주요 내용 |
 |---|---|---|
-| 2024.07 ~ 2025.02 | Intel Edge AI SW 아카데미 9기 | 임베디드 시스템 / Edge AIoT 교육 |
+| 2025.12 ~ 2026.07 | Intel Edge AI SW 아카데미 9기 | 임베디드 시스템 / Edge AIoT 교육 |
 | 2024 ~ | 개인 프로젝트 | STM32, Raspberry Pi, CAN 통신 기반 시스템 개발 |
 
 ---
