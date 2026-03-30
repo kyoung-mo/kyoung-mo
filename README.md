@@ -55,9 +55,6 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 ### 2. [STM32 Dam Control System](https://github.com/kyoung-mo/STM32-Dam-Control-System)
 > STM32 기반 댐 제어 시스템 (DHT11 / 키패드 / 서보 / I2C LCD)
 
-### 3. [Linux C Programming Exercises](https://github.com/kyoung-mo/c-programming-exercises)
-> 빨간약 과제 시리즈 — 포인터, 비트 연산, 자료구조 등 C 핵심 개념 정리
-
 ---
 
 ## 📊 GitHub Stats
