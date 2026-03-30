@@ -59,5 +59,5 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 ## 📊 GitHub Stats
 
-![kyoung-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-mo&show_icons=true&theme=dark&hide_border=true)
+![kyoung-mo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyoung-mo&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoung-mo&layout=compact&theme=dark&hide_border=true)
