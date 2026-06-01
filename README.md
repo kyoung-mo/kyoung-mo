@@ -64,7 +64,7 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 - ADC 수위 센서 기반 수문 자동 제어 로직
 - UART 기반 실시간 데이터 로깅
 
-### 4. 기능안전 기반 스마트 DMS (운전자 모니터링 시스템) *(진행 중)*
+### 4. [기능안전 기반 스마트 DMS (운전자 모니터링 시스템)](https://github.com/kyoung-mo/dms_functional_safety) *(진행 중)*
 > AI 추론과 실시간 안전 기능을 물리적으로 분리한 투트랙 임베디드 시스템
 - RPi5 + Hailo-8 NPU : 얼굴 검출 · 랜드마크 기반 졸음 판정 (AI 추론)
 - STM32 + FreeRTOS : 우선순위 기반 실시간 안전 태스크 (Watchdog / CAN Tx / UART Rx)
