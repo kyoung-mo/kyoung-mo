@@ -1,5 +1,5 @@
-# Hello, I'm kyoung-mo 👋
-**임베디드 SW 개발자를 목표로 공부하고 있습니다.**  
+# 안녕하세요, 구영모입니다. 👋
+**임베디드 펌웨어 엔지니어를 목표로 공부하고 있습니다.**  
 CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mommers/posts)
