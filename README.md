@@ -1,5 +1,6 @@
-# 안녕하세요, 임베디드 펌웨어 엔지니어 구영모입니다. 👋
-CAN 통신 · STM32 · FreeRTOS · Linux 커널 기반 시스템을 설계하고 디버깅합니다.
+# 안녕하세요, 구영모입니다. 👋
+**통신 프로토콜과 하드웨어-소프트웨어 경계면을 다루는 펌웨어 엔지니어를 준비하고 있습니다.**  
+CAN 버스 신호 레벨 디버깅, RTOS 실시간 설계, 리눅스 커널 드라이버를 다뤄왔습니다.
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mommers/posts)
 
@@ -23,9 +24,10 @@ CAN 통신 · STM32 · FreeRTOS · Linux 커널 기반 시스템을 설계하고
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6FBF3F?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -33,17 +35,18 @@ CAN 통신 · STM32 · FreeRTOS · Linux 커널 기반 시스템을 설계하고
 
 | 분야 | 기술 |
 |---|---|
-| MCU | STM32 (HAL / CubeMX), STM32F103, STM32L4, STM32F411, STM32F746(OpenCR), ATmega128 |
-| 통신 | CAN (bxCAN / MCP2515), UART, I2C, SPI, MQTT |
-| OS / 시스템 | Linux, 커널 디바이스 드라이버, SocketCAN, FreeRTOS, 멀티스레딩, ROS2 / micro-ROS |
-| 라이브러리 | OpenCV, Qt Widgets, mosquittopp, libgpiod |
-| 빌드 | STM32CubeIDE, GCC, CMake, Make |
+| MCU | STM32 (HAL / CubeMX) — F103 / L475 / F411 / F746(OpenCR), ATmega128 |
+| RTOS / OS | FreeRTOS, Linux, 커널 디바이스 드라이버, 멀티스레딩 |
+| 통신 | CAN (bxCAN / MCP2515 / SocketCAN), UART, I2C, SPI, MQTT |
+| 미들웨어 | ROS2 (Humble) / micro-ROS, Domain Bridge |
+| 라이브러리 | OpenCV, Qt Widgets, mosquittopp |
+| 빌드 / 협업 | STM32CubeIDE, GCC, Make, CMake, Git |
 
 ---
 
 ## 📁 주요 프로젝트
 
-### 1. [무인 배달 차량(CAN)](https://github.com/kyoung-mo/can-based-autonomous-delivery-car)
+### 1. [자율 주행 기반 무인 배달 시스템](https://github.com/kyoung-mo/can-based-autonomous-delivery-car)
 > STM32 × 2 + Raspberry Pi × 3 분산 ECU 아키텍처 기반 무인 배달 RC카 (PM)
 - CAN 250kbps 온보드 통신 (주행 / 미션 / 화물함 ECU 분리)
 - OpenCV 라인트레이싱 + ArUco 마커 자율 주행
@@ -61,7 +64,7 @@ CAN 통신 · STM32 · FreeRTOS · Linux 커널 기반 시스템을 설계하고
 > TurtleBot3 2대 기반 ROS2 멀티로봇 자율주행 시스템 (PM)
 - ROS2 멀티 도메인 + Domain Bridge로 2-로봇 통신 구조 설계 및 통합
 - micro-ROS 기반 OpenCR 주변장치(버튼 · RGB LED · LCD) 제어
-- Whisper STT 음성 인터랙션 파이프라인 구현 (인식률 33% → 87% 개선)
+- Whisper STT 음성 인터랙션 파이프라인 구현
 - YOLO 영상 전송 최적화 (Raw → CompressedImage, 1fps → 24fps)
 
 ### 4. [스마트 댐 관리 시스템](https://github.com/kyoung-mo/STM32-Dam-Control-System)
