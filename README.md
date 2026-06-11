@@ -71,6 +71,17 @@ CAN 통신 · STM32 · Linux · Raspberry Pi를 주로 다루고 있어요.
 - ADC 수위 센서 기반 수문 자동 제어 로직
 - UART 기반 실시간 데이터 로깅
 
+### 5. [DS1302 RTC 리눅스 디바이스 드라이버](https://github.com/kyoung-mo/ds1302-linux-device-driver)
+> GPIO Bit-banging 기반 3-wire 프로토콜을 구현한 커널 캐릭터 디바이스 드라이버
+- alloc_chrdev_region + udev 자동 노드 생성, platform driver/device 구조
+- Burst Read(0xBF)로 시간 레지스터 일괄 수신, mutex 기반 단일 오픈
+- RPi5 커널 GPIO 번호 체계(RP1) 트러블슈팅
+
+### 6. [ATmega128 베어메탈 엘리베이터](https://github.com/kyoung-mo/atmega128-elevator)
+> 학부 2학년(2021), HAL 없이 레지스터 직접 제어로 구현한 3층 엘리베이터
+- INT4/5/6 외부 인터럽트 + 디바운싱, Timer0 Fast PWM 모터 제어
+- (목표층−현재층) 차이값 하나로 방향·거리를 결정하는 이동 로직
+  
 ---
 
 ## 📊 GitHub Stats
