@@ -1,6 +1,6 @@
 # 안녕하세요, 구영모입니다. 👋
-**통신 프로토콜과 하드웨어-소프트웨어 경계면을 다루는 펌웨어 엔지니어를 준비하고 있습니다.**  
-CAN 버스 신호 레벨 디버깅, RTOS 실시간 설계, 리눅스 커널 드라이버를 다뤄왔습니다.
+**Cortex-M, Cortex-A 경험을 기반으로 임베디드 SW 엔지니어를 준비하고 있습니다.**  
+CAN 버스, RTOS 실시간 설계, Linux 커널 드라이버를 다뤄왔습니다.
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mommers/posts)
 
