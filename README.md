@@ -1,6 +1,8 @@
 # 안녕하세요, 구영모입니다. 👋
-**Cortex-M, Cortex-A 경험을 기반으로 임베디드 SW 엔지니어를 준비하고 있습니다.**  
-CAN 버스, RTOS 실시간 설계, Linux 커널 드라이버를 다뤄왔습니다.
+**Automotive RTOS 및 Classic AUTOSAR 기반 MCU SW를 다루는 임베디드 소프트웨어 엔지니어입니다.**
+
+- Cortex-M, Cortex-A 기반 임베디드 시스템 개발 경험을 보유하고 있습니다.
+- CAN 통신, RTOS 실시간 제어, Linux 커널 디바이스 드라이버를 다뤄왔습니다.
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mommers/posts)
 
@@ -10,8 +12,8 @@ CAN 버스, RTOS 실시간 설계, Linux 커널 드라이버를 다뤄왔습니�
 
 | 기간 | 활동 / 경력 / 수상 내역 | 주요 내용 |
 |---|---|---|
-| 2026.07 ~ 재직중 | CCODE | VM2 Team |
-| 2025.12 ~ 2026.07 | Intel Edge AI SW 아카데미 | Intel 9기 **기수 대표**, 주요 프로젝트 PM 3회, STM32 프로젝트 4회 |
+| 2026.07 ~ 재직중 | 🏢 CCODE - VM2 Team | **Automotive 플랫폼 RTOS/AUTOSAR MICOM SW 개발** |
+| 2025.12 ~ 2026.07 | Intel Edge AI SW 아카데미 | Intel 9기 기수 대표, 주요 프로젝트 PM 3회, STM32 프로젝트 4회 |
 | 2020.03 ~ 2026.02 | 강원대학교(춘천) 졸업 | 디지털회로실험 조교, 전기전자공학과 전공 동아리장 |
 | 2025.02 ~ 2025.08 | 지능형시스템최적화 연구실 (학부연구생) | CAN 이상탐지, Hailo 엣지 AI 최적화 연구 |
 | 2026.07 | 🥇 Intel 과정 프로젝트 경진대회 대상 | 가변 실내 PBV |
@@ -24,8 +26,11 @@ CAN 버스, RTOS 실시간 설계, Linux 커널 드라이버를 다뤄왔습니�
 
 **Firmware / Embedded**
 
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-E76F00?style=for-the-badge)
+![Mobilgene](https://img.shields.io/badge/Mobilgene-005BAC?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6FBF3F?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -37,6 +42,8 @@ CAN 버스, RTOS 실시간 설계, Linux 커널 드라이버를 다뤄왔습니�
 
 | 분야 | 기술 |
 |---|---|
+| Automotive SW | Classic AUTOSAR (RTE, BSW, OS, DCM, NvM) |
+| Configuration | Hyundai AutoEver Mobilgene Studio |
 | MCU | STM32 (HAL / CubeMX) — F103 / L475 / F411 / F746(OpenCR), ATmega128 |
 | RTOS / OS | FreeRTOS, Linux, 커널 디바이스 드라이버, 멀티스레딩 |
 | 통신 | CAN (bxCAN / MCP2515 / SocketCAN), UART, I2C, SPI, MQTT |
